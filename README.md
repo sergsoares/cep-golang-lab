@@ -10,6 +10,5 @@ Create API with golang based on http://cep.la/
 - [ ] Handling SIGTERM
 - [ ] Integration with PostgreSQL
 - [ ] Load for initialize databases
-- [ ] Get more consulted API
 - [ ] Container Template
 
